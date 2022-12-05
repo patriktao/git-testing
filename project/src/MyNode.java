@@ -6,6 +6,8 @@ package tree;
  * Scenario 1
  * @author Torbjorn Ekman
  * @see MyTree
+ * scenario 2
+ * scenario 2
  */
 public class MyNode {
   private MyNode left;

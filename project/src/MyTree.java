@@ -7,6 +7,8 @@ import tree.MyNode;
  *
  * @author Torbjorn Ekman
  * @see MyNode
+ * scenario 2
+ * scenario 2
  */
 public class MyTree {
   private MyNode root;
