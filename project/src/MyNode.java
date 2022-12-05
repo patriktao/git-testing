@@ -3,6 +3,7 @@ package tree;
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  * C9 Test
+ * 
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -11,7 +12,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
-  //test
+  // test
 
   /**
    * Class constructor initializing this node's value.
@@ -102,12 +103,12 @@ public class MyNode {
    */
   public int calcSize() {
     int cnt = 1;
-    if(left != null) {
+    if (left != null) {
       cnt += left.calcSize();
     }
-    if(right != null) {
+    if (right != null) {
       cnt += right.calcSize();
     }
     return cnt;
   }
-} 
+}
