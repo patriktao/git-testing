@@ -8,7 +8,6 @@ package tree;
  * @see MyTree
  */
 public class MyNode {
-  private MyNode father;
   private MyNode left;
   private MyNode right;
   private int value;
@@ -39,24 +38,6 @@ public class MyNode {
    */
   public void setValue(int value) {
     this.value = value;
-  }
-
-  /**
-   * Gets the father of this node.
-   *
-   * @return The current father of this node.
-   */
-  public MyNode getFather() {
-    return father;
-  }
-
-  /**
-   * Sets the father of this node.
-   *
-   * @param father The new father of this node.
-   */
-  public void setFather(MyNode father) {
-    this.father = father;
   }
 
   /**
