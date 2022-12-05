@@ -2,7 +2,8 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- * C9 Test C7 Continued
+ * C9 Test C7 Continued again...
+ * 
  * @author Torbjorn Ekman
  * @see MyTree
  */
