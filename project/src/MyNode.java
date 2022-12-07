@@ -8,6 +8,7 @@ package tree;
  * @see MyTree
  * scenario 2
  * scenario 2
+ * Scenario 3 Test
  */
 public class MyNode {
   private MyNode left;
