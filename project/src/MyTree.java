@@ -13,13 +13,13 @@ import tree.MyNode;
  * extra
  * rader
  */
-public class MyTree {
+public class HobbesTree {
   private MyNode root;
 
   /**
    * Class constructor.
    */
-  public MyTree() {
+  public HobbesTree() {
   }
 
   /**
