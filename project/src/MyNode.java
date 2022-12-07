@@ -8,7 +8,8 @@ package tree;
  * @see MyTree
  * scenario 2
  * scenario 2
- * Scenario 3 Test
+ * Scenario 3 Test 
+ *  Scenario 5 Hobbes
  */
 public class MyNode {
   private MyNode left;
@@ -96,3 +97,4 @@ public class MyNode {
     return cnt;
   }
 }
+// Scenario 5 Hobbes
