@@ -10,7 +10,7 @@ package tree;
  * scenario 2
  * Scenario 3 Test
  * scenario 5 calvin
- * C21
+ * Bug Fixed
  */
 public class MyNode {
   private MyNode left;
