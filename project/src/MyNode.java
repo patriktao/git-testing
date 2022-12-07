@@ -97,4 +97,8 @@ public class MyNode {
     return cnt;
   }
 }
+<<<<<<< HEAD
 //scenario 5 calvin
+=======
+// Scenario 5 Hobbes
+>>>>>>> 8c2acc929100478f3beb9c6be353a0d7caa3b4c4
