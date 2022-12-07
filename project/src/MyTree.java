@@ -9,6 +9,9 @@ import tree.MyNode;
  * @see MyNode
  * scenario 2
  * scenario 2
+ * scenario3
+ * extra
+ * rader
  */
 public class MyTree {
   private MyNode root;
